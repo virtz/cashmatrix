@@ -10,14 +10,11 @@
 <img src="https://github.com/virtz/cashmatrix/blob/main/screenshots/screenshot3.png", width:"150px" height="400" hspace="5" vspace="20"/>
 <img src="https://github.com/virtz/cashmatrix/blob/main/screenshots/screenshot4.png", width:"150px" height="400" hspace="5" vspace="20"/>
 <img src="https://github.com/virtz/cashmatrix/blob/main/screenshots/screenshot5.png", width:"150px" height="400" hspace="5" vspace="20"/>
-
 <img src="https://github.com/virtz/cashmatrix/blob/main/screenshots/screenshot6.png", width:"150px" height="400" hspace="5" vspace="20"/>
 <img src="https://github.com/virtz/cashmatrix/blob/main/screenshots/screenshot7.png", width:"150px" height="400" hspace="5" vspace="20"/>
 <img src="https://github.com/virtz/cashmatrix/blob/main/screenshots/screenshot8.png", width:"150px" height="400" hspace="5" vspace="20"/>
-
 <img src="https://github.com/virtz/cashmatrix/blob/main/screenshots/screenshot9.png", width:"150px" height="400" hspace="5" vspace="20"/>
 <img src="https://github.com/virtz/cashmatrix/blob/main/screenshots/screenshot10.png", width:"150px" height="400" hspace="5" vspace="20"/>
-
 <img src="https://github.com/virtz/cashmatrix/blob/main/screenshots/screenshot11.png", width:"150px" height="400" hspace="5" vspace="20"/>
 <img src="https://github.com/virtz/cashmatrix/blob/main/screenshots/screenshot12.png", width:"150px" height="400" hspace="5" vspace="20"/>
 </p>
